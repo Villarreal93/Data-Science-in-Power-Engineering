@@ -1,0 +1,1 @@
+Select Student_ID, Course_ID, Presentation, Test, (Presentation+Test)/2.0 from Scores;
